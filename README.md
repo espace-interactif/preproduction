@@ -11,6 +11,7 @@
 ### univers artistique des éléments
 
 ## Planification technique d'un prototype
+![](./plan_installations.drawio.png)
 ### plans technique
 ### matériaux requis
 ### equipements requis
