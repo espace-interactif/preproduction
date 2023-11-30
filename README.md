@@ -1,6 +1,6 @@
 # preproduction espace interactif
 ## intention du concept
->En temps qu'équipe ayant trois projets dans espace commum, nous souhaitons faire profiter les participants de trois expériences multimédias démontrant les talents divers acquis par les membres de l'équipe.
+>En temps qu'équipe ayant trois projets dans espace commun, nous souhaitons faire profiter les participants de trois expériences multimédias démontrant les talents divers acquis par les membres de l'équipe.
 ### cartographie
 ### intention de départ
 ### moodboard
