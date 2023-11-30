@@ -20,4 +20,8 @@
 ### contraintes techniques et potentiels problèmes de production
 
 ## planification de la production d'un prototype (budget et étapes de réalisation)
-
+### budget prévisionnel
+### échéancier global
+### liste des tâches à réaliser
+### rôles et responsabilitées des membres de l'équipe
+### moments des rencontres d'équipe
