@@ -11,7 +11,7 @@
 
 ### cartographie
 
-![cartographie](/preproduction/cartographie.png)
+![cartographie](/cartographie.png)
 
 ### intention de départ
 
