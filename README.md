@@ -22,10 +22,15 @@
 ### documents
 
 ## contenu multimédia à intégrer
+Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la réalité virtuelle, de la capture de mouvement et même un jeu sur tablette. Tout dans le même espace.
 
 ### inventaire du contenu multimédia
 
-### univers artistique des éléments
+### univers artistique des élément
+- dans le casque vr il ya aura des paysages à voir tout en 360 degré.
+- pour la capture de mouvement, il y aura un jeu interactif qui va emmener l'interacteur a bouger sans se faire trop mal.
+- l'autre capture de mouvement sera une présentation artistique d'un mur illuminé par les passants
+- le jeu sera un diverttissement pour chaque interacteur qui passera par la.
 
 ## Planification technique d'un prototype
 
@@ -34,10 +39,23 @@
 ### plans technique
 
 ### matériaux requis
+- du bois
+- des lumières
+- chaise
 
 ### equipements requis
+- kinect
+- ordinateurs
+- casque vr
+- tablette (ipad)
+- recharge pour casque vr
 
 ### logiciels requis
+- max
+- kinect studio
+- unity
+- touchdesigner
+- blender
 
 ### ressources humaines requises
 
@@ -48,6 +66,10 @@
 ## planification de la production d'un prototype (budget et étapes de réalisation)
 
 ### budget prévisionnel
+- achat de logiciels manquant au collège
+- tout les matériaux pour constuire l'espace nécessaire
+- une chaise
+- station de recharge pour les casques vr
 
 ### échéancier global
 
