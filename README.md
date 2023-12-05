@@ -22,11 +22,13 @@
 ### documents
 
 ## contenu multimédia à intégrer
+
 Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la réalité virtuelle, de la capture de mouvement et même un jeu sur tablette. Tout dans le même espace.
 
 ### inventaire du contenu multimédia
 
 ### univers artistique des élément
+
 - dans le casque vr il ya aura des paysages à voir tout en 360 degré.
 - pour la capture de mouvement, il y aura un jeu interactif qui va emmener l'interacteur a bouger sans se faire trop mal.
 - l'autre capture de mouvement sera une présentation artistique d'un mur illuminé par les passants
@@ -39,37 +41,58 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 ### plans technique
 
 ### matériaux requis
-- du bois
-- des lumières
-- chaise
+
+- Du bois
+- Des lumières
+- Chaise
+- Mur amovible
+- Leds
 
 ### equipements requis
-- kinect
-- ordinateurs
-- casque vr
-- tablette (ipad)
-- recharge pour casque vr
+
+- Kinect
+- Ordinateurs
+- Casque vr
+- Tablette (ipad)
+- Recharge pour casque vr
+- Consoles audio
+- Hauts-parleurs
+- Leds
+- Fils (Électrique, HDMI et autres)
 
 ### logiciels requis
-- max
-- kinect studio
-- unity
-- touchdesigner
-- blender
+
+- Max
+- Kinect studio
+- Unity
+- Touch designer
+- Blender
+- OBS Studio
+- VCV Rack 2
 
 ### ressources humaines requises
 
+- TTP, location des matériaux
+- Les membres de l'équipe pour l'installation des projets
+- Les participants (le public)
+
 ### ressources spatiales requise
+
+#### Le grand studio
+
+- Un espace assez grand pour contenir nos trois projets
+- Un espace pour permettre de mettre des hauts-parleurs
 
 ### contraintes techniques et potentiels problèmes de production
 
 ## planification de la production d'un prototype (budget et étapes de réalisation)
 
 ### budget prévisionnel
-- achat de logiciels manquant au collège
-- tout les matériaux pour constuire l'espace nécessaire
-- une chaise
-- station de recharge pour les casques vr
+
+- Achat de logiciels manquant au collège
+- Tout les matériaux pour constuire l'espace nécessaire et les différents projets
+- Une chaise
+- Station de recharge pour les casques vr
 
 ### échéancier global
 
