@@ -76,7 +76,7 @@ Le simulateur de planète va être un jeu unity
 
 - Ordinateurs
 - Casque vr
-- Tablette (ipad)
+- Tablette 
 
 #### Autres
 
@@ -105,16 +105,22 @@ Le simulateur de planète va être un jeu unity
 - Un espace assez grand pour contenir nos trois projets
 - Un espace pour permettre de mettre des hauts-parleurs
 
-### contraintes techniques et potentiels problèmes de production
+### Contraintes techniques et potentiels problèmes de production
 
-## planification de la production d'un prototype (budget et étapes de réalisation)
+## Planification de la production d'un prototype (budget et étapes de réalisation)
 
-### budget prévisionnel
+### Budget prévisionnel
 
 - Achat de logiciels manquant au collège
 - Tout les matériaux pour constuire l'espace nécessaire et les différents projets
 - Une chaise
 - Station de recharge pour les casques vr
+
+
+Simulateur de planète
+- Budget de 150$ pour des planches de bois pour le podium pour la tablette.
+
+
 
 ### échéancier global
 
@@ -134,6 +140,14 @@ Le simulateur de planète va être un jeu unity
 
 #### Érick Ouellette et Nicholas St-Martin
 
+- Achat des matériaux (planches de bois)
+- Création des modèles 3d
+- Création de sons
+- Assemblage du podium pour la tablette
+- Programmation sur Unity
+
+
+
 ### Rôles et responsabilitées des membres de l'équipe
 
 #### Antoine Dion
@@ -147,7 +161,13 @@ Le simulateur de planète va être un jeu unity
 - Création du module d'interprétation des données.
 
 #### Érick Ouellette et Nicholas St-Martin
+- Création des médias 3d et audios
+- Programmation des
 
-### moments des rencontres d'équipe
+### Moments des rencontres d'équipe
 
-Au moins une fois par semaine
+Hebdomadaire
+Vendredi 9 février (1h-2h)
+
+Autre
+Vendredi 8 mars (1h-2h)
