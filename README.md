@@ -1,57 +1,59 @@
-# preproduction espace interactif
+# Preproduction espace interactif
 
-## intention du concept
+## Intention du concept
 
-### synopsis
+### Synopsis
 
 > Trois projets, un espace commun. Un espace interactif mettant de l'avant les différentes compétences acquises des membres de l'équipe. Un espace où le public pourra interagir avec les différents projets.
 > <br>
 
 > Le public est appelé à participer à ces expériences interactives ouvertes à tous!
 
-### cartographie
+### Cartographie
 
 ![cartographie](/cartographie.png)
 
-### intention de départ
+### Intention de départ
 
 > En temps qu'équipe ayant trois projets dans espace commun, nous souhaitons faire profiter les participants de trois expériences multimédias démontrant les talents divers acquis par les membres de l'équipe.
 
-### moodboard
+### Moodboard
 
 Simulateur de planète 
-![Planet](/)
+![Planet](/Moodboard_planet.png)
 
-### documents
+### Documents
 
-## contenu multimédia à intégrer
+## Contenu multimédia à intégrer
 
-Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la réalité virtuelle, de la capture de mouvement et même un jeu sur tablette. Tout dans le même espace.
+Chaque projet aura son propre contenu multimédia à intégrer. il y aura de la réalité virtuelle, de la capture de mouvement et même un jeu sur tablette. Tout dans le même espace.
 
-### inventaire du contenu multimédia
+Le simulateur de planète va être un jeu unity
 
-### univers artistique des élément
+### Inventaire du contenu multimédia
+
+### Univers artistique des éléments
 
 - dans le casque vr il ya aura des paysages à voir tout en 360 degré.
 - pour la capture de mouvement, il y aura un jeu interactif qui va emmener l'interacteur a bouger sans se faire trop mal.
 - l'autre capture de mouvement sera une présentation artistique d'un mur illuminé par les passants
-- le jeu sera un diverttissement pour chaque interacteur qui passera par la.
+- le jeu sera un divertissement pour chaque interacteur qui passera par la.
 
 ## Planification technique d'un prototype
 
 ![](./plan_installations.drawio.png)
 
-### plans technique
+### Plans technique
 
-### matériaux requis
+### Matériaux requis
 
-- Du bois
+- Des planches de bois
 - Des lumières
 - Chaise
 - Mur amovible
 - Leds
 
-### equipements requis
+### Équipement requis
 
 #### Audio
 
@@ -86,7 +88,7 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 - [Kinect studio](https://github.com/Kinect/Docs/blob/master/Kinect4Windows2.0/k4w2/NUI_Tools/Kinect_Studio.md)
 - [Unity](https://unity.com/fr)
 - [Touch designer](https://derivative.ca/)
-- [Blender](https://www.blender.org/)
+- [Blender](https://www.blender.org/) ou Maya
 - [OBS Studio](https://obsproject.com/fr)
 - [VCV Rack 2](https://vcvrack.com/Rack)
 
