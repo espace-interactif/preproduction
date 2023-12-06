@@ -87,13 +87,13 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 - [OBS Studio](https://obsproject.com/fr)
 - [VCV Rack 2](https://vcvrack.com/Rack)
 
-### ressources humaines requises
+### Ressources humaines requises
 
 - TTP, location des matériaux
 - Les membres de l'équipe pour l'installation des projets
 - Les participants (le public)
 
-### ressources spatiales requise
+### Ressources spatiales requise
 
 #### Le grand studio
 
@@ -127,7 +127,9 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 - Tests et calibrages de VCV Rack avec la console audio, l'ordinateur et les hauts-parleurs.
 - Tests et calibrages des hauts-parleurs.
 
-### rôles et responsabilitées des membres de l'équipe
+#### Érick Ouellette et Nicholas St-Martin
+
+### Rôles et responsabilitées des membres de l'équipe
 
 #### Antoine Dion
 
