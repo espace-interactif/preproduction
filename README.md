@@ -50,15 +50,32 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 
 ### equipements requis
 
+#### Audio
+
+- Interface audio USB disposant 8 sorties
+- haut-parleurs actifs de 4"
+
+#### Vidéo
+
 - Kinect
+
+#### Électricité
+
+- Des multiprise
+- Des extentions
+- Des conducteurs
+- Recharge pour casque vr
+- Fils (Électrique, HDMI et autres)
+
+#### Ordinateur
+
 - Ordinateurs
 - Casque vr
 - Tablette (ipad)
-- Recharge pour casque vr
-- Consoles audio
-- Hauts-parleurs
+
+#### Autres
+
 - Leds
-- Fils (Électrique, HDMI et autres)
 
 ### logiciels requis
 
@@ -98,6 +115,28 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 
 ### liste des tâches à réaliser
 
+#### Antoine Dion
+
+- Location des matériaux et équipement requis pour le projet.
+- Achat si nécessaire de matériaux manquant pour la réalisation du projet.
+- Installation de l'équipement dans l'espace physique.
+- Tests et calibrage du logiciel OBS Studio.
+- Tests et calibrage du logiciel Touch Designer
+- Test et calibrage de la Kinect et de son logiciel.
+- Création de sons sur VCV Rack 2.
+- Tests et calibrages de VCV Rack avec la console audio, l'ordinateur et les hauts-parleurs.
+- Tests et calibrages des hauts-parleurs.
+
 ### rôles et responsabilitées des membres de l'équipe
+
+#### Antoine Dion
+
+- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe).
+- Comité Technique et coordination technique (suivi du devis technique).
+- Comité auditif et coordination auditif (suivi du devis technique auditif).
+- Création des paysages sonores.
+- Coordination artistique (pour s'assurer que l'intention/concept artistique du projet initial demeure, sinon consulter les membres de l'équipe par précaution).
+- Installation et mise en place de la capture audio-visuelle du projet en temps réel.
+- Création du module d'interprétation des données.
 
 ### moments des rencontres d'équipe
