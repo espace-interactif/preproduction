@@ -141,4 +141,8 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 - Installation et mise en place de la capture audio-visuelle du projet en temps réel.
 - Création du module d'interprétation des données.
 
+#### Érick Ouellette et Nicholas St-Martin
+
 ### moments des rencontres d'équipe
+
+Au moins une fois par semaine
