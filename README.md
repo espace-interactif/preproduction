@@ -62,13 +62,13 @@ Chaque projet aura son propre contenu multmiédia à intégrer. il y aura de la 
 
 ### logiciels requis
 
-- Max
-- Kinect studio
-- Unity
-- Touch designer
-- Blender
-- OBS Studio
-- VCV Rack 2
+- [Max](https://cycling74.com/downloads)
+- [Kinect studio](https://github.com/Kinect/Docs/blob/master/Kinect4Windows2.0/k4w2/NUI_Tools/Kinect_Studio.md)
+- [Unity](https://unity.com/fr)
+- [Touch designer](https://derivative.ca/)
+- [Blender](https://www.blender.org/)
+- [OBS Studio](https://obsproject.com/fr)
+- [VCV Rack 2](https://vcvrack.com/Rack)
 
 ### ressources humaines requises
 
