@@ -138,7 +138,7 @@ Simulateur de planète
 
 #### Équipe Antoine Dion
 
-| Tâches   | Temps estimé |  Assigné à    |
+| Tâches   | Temps estimé | Assigné à     |
 |----------|:------------:|--------------:|
 | Tâche 1  |  2 semaines  | Antoine Dion  |
 | Tâche 2  |  2 semaines  | Antoine Dion  |
