@@ -131,6 +131,17 @@ Simulateur de planète
 
 ### échéancier global
 
+#### Équipe Antoine Dion
+
+| Tâches   | Temps estimé |  Assigné à    |
+|----------|:------------:|--------------:|
+| Tâche 1  |  2 semaines  | Antoine Dion  |
+| Tâche 2  |  2 semaines  | Antoine Dion  |
+| Tâche 3  |  2 semaines  | Antoine Dion  |
+| Tâche 4  |  2 semaines  | Antoine Dion  |
+| Tâche 5  |  2 semaines  | Antoine Dion  |
+| Total :  |  10 semaines |               |
+
 ### liste des tâches à réaliser
 
 #### Antoine Dion
