@@ -27,7 +27,7 @@
 ![jeu](/ca_passe_ou_ca_casse.PNG)
 
 #### Simulateur de planète 
-![Planet](/Moodboard_planet.png)
+![Planet](/Moodboard_planet.png.PNG)
 
 #### Simulation hivernale
 ![jeu](/vrtourisme.jpg)
