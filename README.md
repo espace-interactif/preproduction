@@ -22,7 +22,7 @@
 ### Moodboard
 
 #### Expérience audio-visuelle interactive mimétique
-![Interaction](/dion_antoine_moodboard.PNG)
+![Inspiration](/dion_antoine_moodboard.PNG)
 
 #### Ça passe ou ça casse
 ![inspiration](/moodboard.png)
