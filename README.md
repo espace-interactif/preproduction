@@ -32,7 +32,7 @@
 #### Simulateur de planète 
 ![Planet](/Moodboard_planet.png.PNG)
 
-#### Simulation hivernale
+#### Réalité virtuelle hivernale
 ![jeu](/vrtourisme.jpg)
 ### Documents
 
