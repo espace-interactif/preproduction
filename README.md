@@ -89,7 +89,7 @@ Le simulateur de planète va être un jeu unity
 - [Kinect studio](https://github.com/Kinect/Docs/blob/master/Kinect4Windows2.0/k4w2/NUI_Tools/Kinect_Studio.md)
 - [Unity](https://unity.com/fr)
 - [Touch designer](https://derivative.ca/)
-- [Blender](https://www.blender.org/) ou Maya
+- [Blender](https://www.blender.org/) ou [Maya](https://www.autodesk.com/ca-fr/products/maya/free-trial)
 - [OBS Studio](https://obsproject.com/fr)
 - [VCV Rack 2](https://vcvrack.com/Rack)
 
