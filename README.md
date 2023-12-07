@@ -25,6 +25,8 @@
 #### Simulateur de planète 
 ![Planet](/Moodboard_planet.png)
 
+#### Simulation hivernale
+![jeu](/vrtourisme.jpg)
 ### Documents
 
 ## Contenu multimédia à intégrer
