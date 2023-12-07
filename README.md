@@ -19,6 +19,8 @@
 
 > En temps qu'équipe ayant trois projets dans espace commun, nous souhaitons faire profiter les participants de trois expériences multimédias démontrant les talents divers acquis par les membres de l'équipe.
 
+> L'intention de départ était de créer un jeu vr similaire à notre projet mais nous avons décidé de changer pour un jeu sur une tablette.
+
 ### Moodboard
 
 #### Ça passe ou ça casse
@@ -167,10 +169,12 @@ Simulateur de planète
 #### Érick Ouellette et Nicholas St-Martin
 
 - Achat des matériaux (planches de bois)
-- Création des modèles 3d
+- Création des modèles 3d sur Maya ou Blender
 - Création de sons
 - Assemblage du podium pour la tablette
 - Programmation sur Unity
+- Installation des câbles de charge pour la tablette
+- Installation d'une lumière interactive avec le jeu (Idée en réflexion)
 
 
 
@@ -187,10 +191,12 @@ Simulateur de planète
 - Création du module d'interprétation des données.
 
 #### Érick Ouellette et Nicholas St-Martin
-- Création des médias 3d et audio
+- Coordination générale du projet
+- Création de sons et de médias visuels
+- Création du paysage spatiale
+- Installation de l'oeuvre
 - Programmation du jeu
-- Assemblage du podium
-- Configuration de lumière interactive sur le podium
+
 
 #### Gabriel Clerval et William Mailly Rathier
   - Création des médias audio et vidéos
