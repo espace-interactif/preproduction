@@ -159,6 +159,11 @@ Simulateur de planète
 | VCV Rack 2           |  Création et tests    |  2 semaines   | Antoine Dion |
 | Total :              |  10 semaines |                        |              |
 
+Simulateur de planète:
+- Construire le podium: 9 février
+- Terminer les assets: 22 février
+- Finalisation du projet: 20 mars
+
 ### liste des tâches à réaliser
 
 #### Antoine Dion
