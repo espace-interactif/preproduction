@@ -180,7 +180,8 @@ Simulateur de planète
   - Création des médias audio et vidéos
   - Programmation du jeu sur le casque vr
   - Installation des équipements dans le grand studio
-  
+  - installation d'une kinect qui capture le mouvement de l'interacteur
+  - création de paysage 3D / 360 degré
 
   
 
