@@ -215,12 +215,18 @@ Simulateur de planète:
 - Programmation du jeu
 
 
-#### Gabriel Clerval et William Mailly Rathier
+#### Gabriel Clerval
   - Création des médias audio et vidéos
   - Programmation du jeu sur le casque vr
   - Installation des équipements dans le grand studio
   - installation d'une kinect qui capture le mouvement de l'interacteur
   - création de paysage 3D / 360 degré
+
+#### William Rathier Mailly
+- création d'un projet de kinect pour la capture de mouvement (avec Antoine)
+- création d'un jeu avec touchdesigner / max8
+- conceptualiser l'esapce pour que tout les projets rentrent
+
 
   
 
