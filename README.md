@@ -1,13 +1,11 @@
 # Preproduction espace interactif
 
 ## Intention du concept
+> Trois projets, un espace commun. Un espace interactif mettant de l'avant les différentes compétences acquises des membres de l'équipe. Un espace où le public pourra interagir avec les différents projets.
 
 ### Synopsis
 
-> Trois projets, un espace commun. Un espace interactif mettant de l'avant les différentes compétences acquises des membres de l'équipe. Un espace où le public pourra interagir avec les différents projets.
-> <br>
-
-> Le public est appelé à participer à ces expériences interactives ouvertes à tous!
+> L'expérience audio-visuelle interactive mimétique. Une expérience où la silhouette des participants deviendra interactive. Cette interactivé se reflètera sur un mur de leds par l'interaction des participants entre eux. Des paysages sonores accompagneront l'interactivé des participants dans cette expérience audio-visuelle.
 
 > Simulateur de planète est un jeu interactif où le joueur contrôle la planète Terre. Il pourra soit décider de faire évoluer cette planète pour le bien où créer des problèmes où la détruire.
 
