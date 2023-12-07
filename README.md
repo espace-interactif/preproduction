@@ -30,8 +30,9 @@
 #### Simulateur de planète 
 ![Planet](/Moodboard_planet.png.PNG)
 
-#### Simulation hivernale
+#### Réalité virtuelle hivernale
 ![jeu](/vrtourisme.jpg)
+- [Inspiration RVH](https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s)
 ### Documents
 
 ## Contenu multimédia à intégrer
