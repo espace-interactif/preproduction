@@ -25,7 +25,7 @@
 ![Interaction](/dion_antoine_moodboard.PNG)
 
 #### Ça passe ou ça casse
-![jeu](/ca_passe_ou_ca_casse.PNG)
+![inspiration](/moodboard.png)
 
 #### Simulateur de planète 
 ![Planet](/Moodboard_planet.png.PNG)
