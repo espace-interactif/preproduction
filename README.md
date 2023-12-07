@@ -39,7 +39,7 @@
 
 Chaque projet aura son propre contenu multimédia à intégrer. il y aura de la réalité virtuelle, de la capture de mouvement et même un jeu sur tablette. Tout dans le même espace.
 
-Le simulateur de planète va être un jeu unity
+
 
 ### Inventaire du contenu multimédia
 
