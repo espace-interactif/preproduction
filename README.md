@@ -103,6 +103,7 @@ Le simulateur de planète va être un jeu unity
 - TTP, location des matériaux
 - Les membres de l'équipe pour l'installation des projets
 - Les participants (le public)
+- Guillaume
 
 ### Ressources spatiales requise
 
