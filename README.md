@@ -161,8 +161,10 @@ Simulateur de planète
 - Création du module d'interprétation des données.
 
 #### Érick Ouellette et Nicholas St-Martin
-- Création des médias 3d et audios
-- Programmation des
+- Création des médias 3d et audio
+- Programmation du jeu
+- Assemblage du podium
+- Configuration de lumière interactive sur le podium
 
 ### Moments des rencontres d'équipe
 
