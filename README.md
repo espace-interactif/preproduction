@@ -9,6 +9,8 @@
 
 > Le public est appelé à participer à ces expériences interactives ouvertes à tous!
 
+> Simulateur de planète est un jeu interactif où le joueur contrôle la planète Terre. Il pourra soit décider de faire évoluer cette planète pour le bien où créer des problèmes où la détruire.
+
 ### Cartographie
 #### Simulateur de planète
 ![cartographie](/cartographie.drawio.png)
