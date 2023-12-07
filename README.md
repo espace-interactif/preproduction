@@ -180,3 +180,8 @@ Vendredi 9 février (1h-2h)
 
 Autre
 Vendredi 8 mars (1h-2h)
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
