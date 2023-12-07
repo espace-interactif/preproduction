@@ -9,6 +9,8 @@
 
 > Le public est appelé à participer à ces expériences interactives ouvertes à tous!
 
+> Simulateur de planète est un jeu interactif où le joueur contrôle la planète Terre. Il pourra soit décider de faire évoluer cette planète pour le bien où créer des problèmes où la détruire.
+
 ### Cartographie
 #### Simulateur de planète
 ![cartographie](/cartographie.drawio.png)
@@ -16,6 +18,8 @@
 ### Intention de départ
 
 > En temps qu'équipe ayant trois projets dans espace commun, nous souhaitons faire profiter les participants de trois expériences multimédias démontrant les talents divers acquis par les membres de l'équipe.
+
+> L'intention de départ était de créer un jeu vr similaire à notre projet mais nous avons décidé de changer pour un jeu sur une tablette.
 
 ### Moodboard
 
@@ -26,7 +30,7 @@
 ![jeu](/ca_passe_ou_ca_casse.PNG)
 
 #### Simulateur de planète 
-![Planet](/Moodboard_planet.png)
+![Planet](/Moodboard_planet.png.PNG)
 
 #### Simulation hivernale
 ![jeu](/vrtourisme.jpg)
@@ -106,6 +110,7 @@ Le simulateur de planète va être un jeu unity
 - TTP, location des matériaux
 - Les membres de l'équipe pour l'installation des projets
 - Les participants (le public)
+- Guillaume
 
 ### Ressources spatiales requise
 
@@ -167,10 +172,12 @@ Simulateur de planète
 #### Érick Ouellette et Nicholas St-Martin
 
 - Achat des matériaux (planches de bois)
-- Création des modèles 3d
+- Création des modèles 3d sur Maya ou Blender
 - Création de sons
 - Assemblage du podium pour la tablette
 - Programmation sur Unity
+- Installation des câbles de charge pour la tablette
+- Installation d'une lumière interactive avec le jeu (Idée en réflexion)
 
 
 
@@ -187,10 +194,12 @@ Simulateur de planète
 - Création du module d'interprétation des données.
 
 #### Érick Ouellette et Nicholas St-Martin
-- Création des médias 3d et audio
+- Coordination générale du projet
+- Création de sons et de médias visuels
+- Création du paysage spatiale
+- Installation de l'oeuvre
 - Programmation du jeu
-- Assemblage du podium
-- Configuration de lumière interactive sur le podium
+
 
 #### Gabriel Clerval et William Mailly Rathier
   - Création des médias audio et vidéos
