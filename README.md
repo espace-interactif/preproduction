@@ -67,6 +67,8 @@ Le simulateur de planète va être un jeu unity
 > Il se peut qu'il y ait d'autres matériaux à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
 
 ### Équipement requis
+> Il se peut qu'il y ait d'autres équipements requis à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
+
 
 #### Audio
 
