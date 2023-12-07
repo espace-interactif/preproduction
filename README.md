@@ -138,14 +138,15 @@ Simulateur de planète
 
 #### Équipe Antoine Dion
 
-| Tâches   | Temps estimé | Assigné à     |
-|----------|:------------:|:-------------:|
-| Tâche 1  |  2 semaines  | Antoine Dion  |
-| Tâche 2  |  2 semaines  | Antoine Dion  |
-| Tâche 3  |  2 semaines  | Antoine Dion  |
-| Tâche 4  |  2 semaines  | Antoine Dion  |
-| Tâche 5  |  2 semaines  | Antoine Dion  |
-| Total :  |  10 semaines |               |
+|   Tâches principales | Description  | Temps estimé  |  Assigné à   |
+|----------------------|:------------:|:-------------:|:------------:|
+| Tests et calibrage de
+  Obs Studio           |  2 semaines  |  2 semaines   | Antoine Dion |
+| Tâche 2              |  2 semaines  |  2 semaines   | Antoine Dion |
+| Tâche 3              |  2 semaines  |  2 semaines   | Antoine Dion |
+| Tâche 4              |  2 semaines  |  2 semaines   | Antoine Dion |
+| Tâche 5              |  2 semaines  |  2 semaines   | Antoine Dion |
+| Total :              |  10 semaines |               |              |
 
 ### liste des tâches à réaliser
 
