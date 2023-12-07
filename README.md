@@ -19,9 +19,14 @@
 
 ### Moodboard
 
+#### Ça passe ou ça casse
+![jeu](/ca_passe_ou_ca_casse.PNG)
+
 #### Simulateur de planète 
 ![Planet](/Moodboard_planet.png)
 
+#### Simulation hivernale
+![jeu](/vrtourisme.jpg)
 ### Documents
 
 ## Contenu multimédia à intégrer
@@ -183,6 +188,15 @@ Simulateur de planète
 - Programmation du jeu
 - Assemblage du podium
 - Configuration de lumière interactive sur le podium
+
+#### Gabriel Clerval et William Mailly Rathier
+  - Création des médias audio et vidéos
+  - Programmation du jeu sur le casque vr
+  - Installation des équipements dans le grand studio
+  - installation d'une kinect qui capture le mouvement de l'interacteur
+  - création de paysage 3D / 360 degré
+
+  
 
 ### Moments des rencontres d'équipe
 
