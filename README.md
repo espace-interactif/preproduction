@@ -91,7 +91,7 @@ Le simulateur de planète va être un jeu unity
 - [Touch designer](https://derivative.ca/)
 - [Blender](https://www.blender.org/) ou [Maya](https://www.autodesk.com/ca-fr/products/maya/free-trial)
 - [OBS Studio](https://obsproject.com/fr)
-- [VCV Rack 2](https://vcvrack.com/Rack)
+- [Reaper](https://www.reaper.fm/)
 
 ### Ressources humaines requises
 
