@@ -64,6 +64,7 @@ Le simulateur de planète va être un jeu unity
 
 - Kinect
 
+
 #### Électricité
 
 - Des multiprise
@@ -106,6 +107,12 @@ Le simulateur de planète va être un jeu unity
 - Un espace pour permettre de mettre des hauts-parleurs
 
 ### Contraintes techniques et potentiels problèmes de production
+-Avoir des instructions claires pour les participants pour démarrer l'immersion de chaque projet sans l'aide des créateurs du projets.
+-3 projets fonctionnels sans avoir besoin de la présence des créateurs des projets
+-Avoir une démarcation visible des 3 projets placés dans le grand studio
+-Mettre en place une manière simple et efficace de pouvoir garder les équipements nécessaires pour les projets chargés et prêts à l'utilisation.
+-Cable des projets qui pourrait être sur le chemin du public
+
 
 ## Planification de la production d'un prototype (budget et étapes de réalisation)
 
