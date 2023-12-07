@@ -34,6 +34,7 @@
 
 #### Réalité virtuelle hivernale
 ![jeu](/vrtourisme.jpg)
+- [Inspiration](https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s)
 ### Documents
 
 ## Contenu multimédia à intégrer
