@@ -7,8 +7,9 @@
 
 > L'expérience audio-visuelle interactive mimétique. Une expérience où la silhouette des participants deviendra interactive. Cette interactivé se reflètera sur un mur de leds par l'interaction des participants entre eux. Des paysages sonores accompagneront l'interactivé des participants dans cette expérience audio-visuelle.
 
-> Simulateur de planète est un jeu interactif où le joueur contrôle la planète Terre. Il pourra soit décider de faire évoluer cette planète pour le bien où créer des problèmes où la détruire.
-https://github.com/Erickthe/Prototype
+> Simulateur de planète est un jeu interactif où le joueur contrôle la planète Terre. Il pourra soit décider de faire évoluer cette planète pour le bien où créer des problèmes où la détruire.  
+https://github.com/Erickthe/Prototype  
+https://github.com/Vanounais/st-martin_nicolas_projet_finissant
 
 ### Cartographie
 #### Simulateur de planète
