@@ -34,7 +34,7 @@
 
 #### Réalité virtuelle hivernale
 ![jeu](/vrtourisme.jpg)
-- [Inspiration RVA](https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s)
+- [Inspiration RVH](https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s)
 ### Documents
 
 ## Contenu multimédia à intégrer
