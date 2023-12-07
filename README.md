@@ -10,8 +10,8 @@
 > Le public est appelé à participer à ces expériences interactives ouvertes à tous!
 
 ### Cartographie
-
-![cartographie](/cartographie.png)
+####Simulateur de planète
+![cartographie](/cartographie.drawio.png)
 
 ### Intention de départ
 
@@ -19,7 +19,7 @@
 
 ### Moodboard
 
-Simulateur de planète 
+####Simulateur de planète 
 ![Planet](/Moodboard_planet.png)
 
 ### Documents
