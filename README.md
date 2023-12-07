@@ -173,6 +173,14 @@ Simulateur de planète
 - Assemblage du podium
 - Configuration de lumière interactive sur le podium
 
+  #### Gabriel Clerval et William Mailly Rathier
+  - Création des médias audio et vidéos
+  - Programmation du jeu sur le casque vr
+  - Installation des équipements dans le grand studio
+  
+
+  
+
 ### Moments des rencontres d'équipe
 
 Hebdomadaire
