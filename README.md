@@ -41,7 +41,7 @@ Le simulateur de planète va être un jeu unity
 
 ## Planification technique d'un prototype
 
-![](./plan_installations_version-2.png)
+![](./plan_installations_version-3.png)
 
 ### Plans technique
 
