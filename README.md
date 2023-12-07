@@ -145,7 +145,7 @@ Simulateur de planète
 | Tâche 3  |  2 semaines  | Antoine Dion  |
 | Tâche 4  |  2 semaines  | Antoine Dion  |
 | Tâche 5  |  2 semaines  | Antoine Dion  |
-| Total :  |  10 semaines |               
+| Total :  |  10 semaines                
 
 ### liste des tâches à réaliser
 
