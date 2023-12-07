@@ -56,6 +56,8 @@ Chaque projet aura son propre contenu multimédia à intégrer. il y aura de la 
 ## Planification technique d'un prototype
 
 ![](./plan_installations_version-3.png)
+
+### Planification technique de l'équipe d'Antoine Dion
 ![](./dion_antoine_plan_installation.drawio.png)
 
 ### Plans technique
