@@ -58,13 +58,14 @@ Le simulateur de planète va être un jeu unity
 ### Plans technique
 
 ### Matériaux requis
+> Il se peut qu'il y ait d'autres matériaux à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
 
 - Des planches de bois
 - Des lumières
 - Chaise
 - Mur amovible
 - Leds
-> Il se peut qu'il y ait d'autres matériaux à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
+
 
 ### Équipement requis
 > Il se peut qu'il y ait d'autres équipements requis à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
