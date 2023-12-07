@@ -138,15 +138,14 @@ Simulateur de planète
 
 #### Équipe Antoine Dion
 
-|   Tâches principales | Description  | Temps estimé  |  Assigné à   |
-|----------------------|:------------:|:-------------:|:------------:|
-| Tests et calibrage de
-  Obs Studio           |  2 semaines  |  2 semaines   | Antoine Dion |
-| Tâche 2              |  2 semaines  |  2 semaines   | Antoine Dion |
-| Tâche 3              |  2 semaines  |  2 semaines   | Antoine Dion |
-| Tâche 4              |  2 semaines  |  2 semaines   | Antoine Dion |
-| Tâche 5              |  2 semaines  |  2 semaines   | Antoine Dion |
-| Total :              |  10 semaines |               |              |
+|   Tâches principales |      Description      | Temps estimé  |  Assigné à   |
+|----------------------|:---------------------:|:-------------:|:------------:|
+| Obs Studio           |  Tests et calibrage   |  2 semaines   | Antoine Dion |
+| Touch Designer       |  Tests et calibrage   |  2 semaines   | Antoine Dion |
+| Kinect               |  Tests et calibrage   |  2 semaines   | Antoine Dion |
+| Leds                 |  Tests et calibrage   |  2 semaines   | Antoine Dion |
+| VCV Rack 2           |  Création et tests    |  2 semaines   | Antoine Dion |
+| Total :              |  10 semaines |                        |              |
 
 ### liste des tâches à réaliser
 
@@ -180,7 +179,7 @@ Simulateur de planète
 - Comité Technique et coordination technique (suivi du devis technique).
 - Comité auditif et coordination auditif (suivi du devis technique auditif).
 - Création des paysages sonores.
-- Coordination artistique (pour s'assurer que l'intention/concept artistique du projet initial demeure, sinon consulter les membres de l'équipe par précaution).
+- Coordination artistique.
 - Installation et mise en place de la capture audio-visuelle du projet en temps réel.
 - Création du module d'interprétation des données.
 
